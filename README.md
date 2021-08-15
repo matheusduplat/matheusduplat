@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como Desenvolvimento Web
 - Atualmente trabalho na empresa SoteroTech no suporte e no desenvolvimento de sistemas
-- 
+
 
 <!--
 **matheusduplat/matheusduplat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
