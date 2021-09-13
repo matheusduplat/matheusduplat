@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Matheus Duplat 👋
 
 - 🔭 Trabalho como Desenvolvimento Web
-- Atualmente trabalho na empresa SoteroTech no suporte e no desenvolvimento de sistemas
+- Atualmente trabalho na empresa SoteroTech no suporte e no desenvolvimento de sistemas.
+- Tenho conhecimento medio no framework Laravel e  basico em react e em mysql
+
 
 
 <!--
